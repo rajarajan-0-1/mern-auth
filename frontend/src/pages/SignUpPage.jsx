@@ -69,7 +69,7 @@ const SignUpPage = () => {
 						disabled={isLoading}
 					>
 						{isLoading ? <Loader className="animate-spina mx-auto" size={24}/>: "Sign Up"}
-						Sign Up</motion.button>
+						</motion.button>
         </form>
       </div>
       <div className='px-8 py-4 bg-gray-900 bg-opacity-50 flex justify-center'>
