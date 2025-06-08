@@ -45,7 +45,3 @@ app.listen(PORT, () => {
 
 
 console.log("JWT_SECRET:", process.env.JWT_SECRET); // Debugging
-
-
-// lCE6zVWMjO8MjMRL
-// mongodb+srv://rajarajanclg:lCE6zVWMjO8MjMRL@cluster0.jo7hr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
